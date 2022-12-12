@@ -1,7 +1,7 @@
 ---
 
 title: Github
-emoji: 📺
+emoji: 🐙
 href: https://github.com/HenriqueBarucco
 
 ---

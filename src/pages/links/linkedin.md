@@ -1,7 +1,7 @@
 ---
 
 title: LinkedIn
-emoji: 📺
+emoji: 💙
 href: https://www.linkedin.com/in/henrique-barucco/
 
 ---
