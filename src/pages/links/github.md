@@ -1,7 +1,7 @@
 ---
 
-title: Github
-emoji: 🐙
-href: https://github.com/HenriqueBarucco
+title: Portfólio
+emoji: 📁
+href: https://portfolio.henriquebarucco.com.br
 
 ---
